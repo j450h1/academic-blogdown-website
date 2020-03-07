@@ -40,7 +40,7 @@
 
 [[main]]
   name = "Certifications"
-  url = "courses/"
+  url = "#certifications"
   weight = 60
 #[[main]]
 #  name = "Contact"
