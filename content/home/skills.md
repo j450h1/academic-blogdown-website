@@ -19,17 +19,29 @@ subtitle = ""
   icon_pack = "fab"
   name = "R"
   description = "90%"
-  
+
+[[feature]]
+  icon = "fa-python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "80%"   
+
+[[feature]]
+  icon = "fa-database"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "90%" 
+
+[[feature]]
+  icon = "fa-cloud"
+  icon_pack = "fas"
+  name = "Cloud Computing"
+  description = "90%" 
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "70%"  
   
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
 +++
