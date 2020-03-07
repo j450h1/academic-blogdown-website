@@ -5,13 +5,20 @@ bio: My interests include R, reproducibility and predictive modeling
 education:
   courses:
   - course: Google Cloud Data Engineer Certification
+    institution: Google
     year: 2019
   - course: Adobe Analytics Business Practicioner Certification
+    institution: Adobe
     year: 2018
   - course: Udacity Data Analyst Nanodegree (1st cohort ever)
+    institution: Udacity
     year: 2015
- - course: John Hopkins Data Science Specialization
+  - course: John Hopkins Data Science Specialization
+    institution: Coursera
     year: 2014
+  - course: Bachelor of Business Admin: Finance, MIS, and Entrepreneurship
+    institution: Simon Fraser University
+    year: 2009
 email: "jsohi@me.com"
 interests:
 - R
