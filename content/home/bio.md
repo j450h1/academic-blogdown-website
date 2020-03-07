@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Demos"
+title = "Bio"
 subtitle = ""
 
 [design]
@@ -55,6 +55,10 @@ Jas "like Jazz music" Sohi is a data scientist at Cardinal Path - a leading mark
 Prior to Cardinal Path, Jas worked in sales and supply chain for a leading ecommerce startup, BuildDirect.com technologies. He honed his business acumen and worked with the COO to build up the new Inventory Department. 
 
 He was one of the 1st students to complete the John Hopkins Data Science specialization where he first learned R and built a natural language model (bag of words) to predict what a user would type next. He then completed 7 projects as part of the comprehensive Udacity Data Analyst Nanodegree program taught by experts from Google, AirBnb and other industry insiders. He now regularly contributes to several open source R projects in particular the googleAnalyticsR package where he is a named contributor. 
+
+If you haven't noticed yet, Jas is a R ninja (this website was fully built in RStudio), a slick SQLer, and a Python pro. He's also a bit bashful about his brilliant bash scripting skill.
+
+On a more personal note, he's an avid skier, hiker, and a motorcyclist.
 
 {{% alert note %}}
 This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
