@@ -49,6 +49,8 @@ social:
 superuser: true
 ---
 
-Jas "like Jazz music" Sohi is a data scientist at Cardinal Path - a leading digital analytics Consultancy. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jas "like Jazz music" Sohi is a data scientist at Cardinal Path - a leading marketing analytics consultancy. He was the 1st employee in the data science department and helped build it from the ground up with a focus on reproducibility. As a full stack data scientist, he leads end to end projects from gathering requirements from clients, building data pipelines, training machine learning models, and finally visualizing and presenting results. Key clients include Intel, Rite-aid, Universal Music, to name a few. Over the past few years, he has specialized in multi-channel attribution, market mix models, and predictive models (both ML and traditional stastical models).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prior to Cardinal Path, Jas worked in sales and supply chain for a leading ecommerce startup, BuildDirect.com technologies. He honed his business acumen and worked with the COO to build up the new Inventory Department. 
+
+He was one of the 1st students to complete the John Hopkins Data Science specialization where he first learned R and built a natural language model (bag of words) to predict what a user would type next. He then completed 7 projects as part of the comprehensive Udacity Data Analyst Nanodegree program taught by experts from Google, AirBnb and other industry insiders. He now regularly contributes to several open source R projects in particular the googleAnalyticsR package where he is a named contributor. 
