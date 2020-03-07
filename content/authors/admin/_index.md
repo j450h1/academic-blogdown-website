@@ -16,7 +16,7 @@ education:
   - course: John Hopkins Data Science Specialization
     institution: Coursera
     year: 2014
-  - course: Bachelor of Business Admin: Finance, MIS, and Entrepreneurship
+  - course: "Bachelor of Business Admin: Finance, Management Information Systems, and Entrepreneurship"
     institution: Simon Fraser University
     year: 2009
 email: "jsohi@me.com"
