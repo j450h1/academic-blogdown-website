@@ -14,19 +14,24 @@
   weight = 10
 
 [[main]]
+  name = "Skills"
+  url = "#skills"
+  weight = 20
+
+[[main]]
   name = "Posts"
   url = "#posts"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Recent Projects"
   url = "#projects"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Recent Clients"
   url = "#projects"
-  weight = 40
+  weight = 50
 
 #[[main]]
 #  name = "Publications"
@@ -36,7 +41,7 @@
 [[main]]
   name = "Certifications"
   url = "courses/"
-  weight = 50
+  weight = 60
 #[[main]]
 #  name = "Contact"
 #  url = "#contact"
@@ -48,4 +53,4 @@
    name = "Resume"
    #url = "files/cv.pdf"
    url = "https://docs.google.com/document/d/140V8w_9ULxasPt1undqa-iB3GUzr14LRm5vrmcpMCF4/edit#heading=h.8v78y56onko"
-   weight = 50
+   weight = 70
