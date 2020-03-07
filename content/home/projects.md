@@ -75,3 +75,11 @@ subtitle = ""
  css_class = ""
 +++
 
+
+# Recent projects I’ve worked on have included:
+
+# Built data driven attribution models to fairly credit different marketing channels as opposed to simplistic rules based approaches
+
+# Determined the lifetime value of different segments of customers to determine how much marketing spend should be allocated to them
+
+# Built a cloud based predictive model to rank each website visitor on their probability of eventually making a purchases. Thus the client could focus her limited retargeting budget on those customers who needed just an extra push as opposed to wasting ad spend on users who are already going to purchase or who are very unlikely to ever purchase
