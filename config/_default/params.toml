@@ -21,7 +21,8 @@ day_night = true
 #   Browse user installed font sets in `data/fonts/`
 #font = ""
 #font = "Mr Robot"
-font = "Rose"
+#font = "Rose"
+font = "Minimal"
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 #font_size = "L"
