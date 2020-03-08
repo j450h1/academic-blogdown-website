@@ -2,7 +2,7 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
@@ -18,30 +18,41 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Advanced - 93rd percentile for R programming and 86th percentile for Data Manipulation as per Datacamp assessment"
 
 [[feature]]
-  icon = "fa-python"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "80%"   
+  description = "Intermediate - 58th percentile for Python programming and 76th percentile for Data Manipulation as per Datacamp assessment"   
 
 [[feature]]
-  icon = "fa-database"
+  icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "90%" 
+  description = "BigQuery, mySQL, SQL Server - in 97th percentile for SQL as per Datacamp assessment" 
 
 [[feature]]
-  icon = "fa-cloud"
+  icon = "cloud"
   icon_pack = "fas"
   name = "Cloud Computing"
+  description = "GCP, Azure, AWS" 
+
+[[feature]]
+  icon = "git"
+  icon_pack = "fas"
+  name = "Git/Version Control"
   description = "90%" 
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "70%"  
-  
+  description = ""  
+
+[[feature]]
+  icon = "chart-pie"
+  icon_pack = "fas"
+  name = "Data Visualization"
+  description = "ggplot2 (R), Google Data Studio, Tableau"    
 +++

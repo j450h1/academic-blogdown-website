@@ -21,7 +21,7 @@
   
   
 
-  <meta name="author" content="Nelson Bighetti">
+  <meta name="author" content="Jas Sohi">
 
   
   
@@ -39,7 +39,7 @@
   
   
   
-  <meta name="theme-color" content="#2962ff">
+  <meta name="theme-color" content="hsl(339, 90%, 68%)">
   
 
   
@@ -63,8 +63,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark">
         
       
     
@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57229897-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-57229897-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -227,6 +265,9 @@
   
   <meta property="twitter:card" content="summary_large_image">
   
+  <meta property="twitter:site" content="@j450h1">
+  <meta property="twitter:creator" content="@j450h1">
+  
   <meta property="og:site_name" content="Jas Sohi - Data Scientist">
   <meta property="og:url" content="/publication/conference-paper/">
   <meta property="og:title" content="An example conference paper | Jas Sohi - Data Scientist">
@@ -236,7 +277,7 @@
     
       <meta property="article:published_time" content="2017-01-01T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2013-07-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-03-07T01:00:46-08:00">
   
 
   
@@ -267,11 +308,11 @@
   ],
   
   "datePublished": "2017-01-01T00:00:00Z",
-  "dateModified": "2013-07-01T00:00:00Z",
+  "dateModified": "2020-03-07T01:00:46-08:00",
   
   "author": {
     "@type": "Person",
-    "name": "Nelson Bighetti"
+    "name": "Jas Sohi"
   },
   
   "publisher": {
@@ -304,7 +345,7 @@
 
 </head>
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="dark">
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -381,6 +422,33 @@
         
         
         
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#bio"><span>Bio</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
           
         
 
@@ -399,7 +467,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#hero"><span>Demo</span></a>
+          <a class="nav-link " href="/#skills"><span>Skills</span></a>
         </li>
 
         
@@ -457,7 +525,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          <a class="nav-link " href="/#projects"><span>Recent Projects</span></a>
         </li>
 
         
@@ -486,29 +554,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Publications</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/courses/"><span>Courses</span></a>
+          <a class="nav-link " href="/#clients"><span>Recent Clients</span></a>
         </li>
 
         
@@ -537,7 +583,36 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          <a class="nav-link " href="/#certifications"><span>Certifications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://docs.google.com/document/d/140V8w_9ULxasPt1undqa-iB3GUzr14LRm5vrmcpMCF4/edit#heading=h.8v78y56onko" target="_blank" rel="noopener"><span>Resume</span></a>
         </li>
 
         
@@ -617,7 +692,7 @@
     
 
   
-  <span><a href="/authors/admin/">Nelson Bighetti</a></span>, <span><a href="/authors/robert-ford/">Robert Ford</a></span>
+  <span><a href="/authors/admin/">Jas Sohi</a></span>, <span><a href="/authors/robert-ford/">Robert Ford</a></span>
   </div>
   
   
@@ -969,13 +1044,13 @@
   <div class="media author-card content-widget-hr">
     
       
-      <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu77476dfd7199963d035f5f14fb274208_13661_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar">
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/">Nelson Bighetti</a></h5>
-      <h6 class="card-subtitle">Professor of Artificial Intelligence</h6>
-      <p class="card-text">My research interests include distributed robotics, mobile computing and programmable matter.</p>
+      <h5 class="card-title"><a href="/">Jas Sohi</a></h5>
+      <h6 class="card-subtitle">Data Scientist</h6>
+      <p class="card-text">My interests include R, reproducibility and predictive modeling</p>
       <ul class="network-icon" aria-hidden="true">
   
     
@@ -990,7 +1065,39 @@
       
     
     <li>
-      <a href="/#contact" >
+      <a href="https://www.linkedin.com/in/jsohi/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/j450h1" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:jsohi@me.com" >
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -1007,40 +1114,8 @@
       
     
     <li>
-      <a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">
+      <a href="https://twitter.com/j450h1" target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ" target="_blank" rel="noopener">
-        <i class="ai ai-google-scholar"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/gcushen" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
       </a>
     </li>
   
@@ -1142,7 +1217,7 @@
 
     
     
-    <script>const isSiteThemeDark = false;</script>
+    <script>const isSiteThemeDark = true;</script>
     
 
     
