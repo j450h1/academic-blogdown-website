@@ -41,7 +41,7 @@
 [[main]]
   name = "Certifications"
   url = "#certifications"
-  weight = 60
+  weight = 40
 
 [[main]]
   name = "Volunteer"
