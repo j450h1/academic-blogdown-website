@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
@@ -36,19 +36,19 @@ subtitle = ""
   icon = "cloud"
   icon_pack = "fas"
   name = "Cloud Computing"
-  description = "GCP, Azure, AWS" 
+  description = "GCP, Azure, AWS. Google Cloud Certified 2X" 
 
 [[feature]]
   icon = "git"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Git/Version Control"
-  description = "90%" 
+  description = "Lead and championed implementation of Bitbucket (Git) version control throughout Cardinal Path's Data Science department" 
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = ""  
+  description = "R and Python stats packages - Experience with Multiple Linear Logistic Regression, ARIMA Time Series Forecasting, Correlation Analysis, Factor Analysis, Descriptive and Inferential Statistics"  
 
 [[feature]]
   icon = "chart-pie"
