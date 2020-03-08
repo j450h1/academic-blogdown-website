@@ -18,19 +18,19 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Advanced - 93rd percentile for R programming and 86th percentile for Data Manipulation as per Datacamp assessment"
+  description = "**ADVANCED** - 93rd percentile for R programming and 86th percentile for Data Manipulation as per Datacamp assessment"
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Intermediate - 58th percentile for Python programming and 76th percentile for Data Manipulation as per Datacamp assessment"   
+  description = "**INTERMEDIATE** - 58th percentile for Python programming and 76th percentile for Data Manipulation as per Datacamp assessment"   
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "BigQuery, mySQL, SQL Server - in 97th percentile for SQL as per Datacamp assessment" 
+  description = "**ADVANCED** - BigQuery, mySQL, SQL Server - in 97th percentile for SQL as per Datacamp assessment" 
 
 [[feature]]
   icon = "cloud"
@@ -41,7 +41,7 @@ subtitle = ""
 [[feature]]
   icon = "git"
   icon_pack = "fab"
-  name = "Git/Version Control"
+  name = "Version Control"
   description = "Lead and championed implementation of Bitbucket (Git) version control throughout Cardinal Path's Data Science department" 
 
 [[feature]]
