@@ -48,11 +48,19 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "R and Python stats packages - Experience with Multiple Linear Logistic Regression, ARIMA Time Series Forecasting, Correlation Analysis, Factor Analysis, Descriptive and Inferential Statistics"  
+  description = "R and Python stats packages - Experience with Descriptive Statistics, Inferential Statistics, Multiple Linear Regression, Logistic Regression, ARIMA Time Series Forecasting, Correlation Analysis, Factor Analysis, and more "  
 
 [[feature]]
   icon = "chart-pie"
   icon_pack = "fas"
   name = "Data Visualization"
-  description = "ggplot2 (R), Google Data Studio, Tableau"    
+  description = """ggplot2 (R), Google Data Studio, Tableau 
+  
+  Below is an explanatory plot recently developed for a client forecasting their estimated data storage costs in [Google BigQuery](https://cloud.google.com/bigquery/): 
+  
+  ![Plot](images/ggplot2.jpg)
+
+  """
 +++
+
+<a href="images/ggplot2.jpg"><img src="images/ggplot2.jpg" width="200" align="center"/></a>
