@@ -4,7 +4,7 @@ authors:
 bio: My interests include R, reproducibility and predictive modeling
 education:
   courses:
-  - course: Udacity Data Analyst Nanodegree (1st cohort ever)
+  - course: Udacity Data Analyst Nanodegree
     institution: Udacity
     year: 2015
   - course: John Hopkins Data Science Specialization
