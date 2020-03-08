@@ -58,9 +58,8 @@ subtitle = ""
   
   Below is an explanatory plot recently developed for a client forecasting their estimated data storage costs in [Google BigQuery](https://cloud.google.com/bigquery/): 
   
-  ![Plot](images/ggplot2.jpg)
+  ![Plot](img/ggplot2.jpg)
 
   """
 +++
 
-<a href="images/ggplot2.jpg"><img src="images/ggplot2.jpg" width="200" align="center"/></a>
