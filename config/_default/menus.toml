@@ -29,7 +29,7 @@
 #  weight = 40
 
 [[main]]
-  name = "Recent Clients"
+  name = "Clients"
   url = "#clients"
   weight = 50
 
