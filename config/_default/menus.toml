@@ -9,7 +9,7 @@
 #  weight = 10
 
 [[main]]
-  name = "Bio"
+  name = "Full Bio"
   url = "#bio"
   weight = 10
 

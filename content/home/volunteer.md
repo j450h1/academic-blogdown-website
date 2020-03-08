@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://hockeyhackday.ca"
   location = "Vancouver, BC"
   date_start = "2020-03-28"
-  date_end = ""
+  date_end = "2020-03-28"
   description = """Invited back for the 2nd time by the SFU Sports Analytics club to judge and mentor for this hackathon.
   
   This year’s event is done in partnership with Stathletes to bring exclusive hockey data to students across the country.  Hockey Hack Day in Canada creates an avenue for students to gain the proper knowledge and experience to help them transition into the growing industry of sports analytics.  We aim to give participants the vision, ability, and opportunity to improve their skills with data and analytics in sports.
@@ -35,10 +35,21 @@ date_format = "Jan 2006"
   company_url = "www.vansash.com"
   location = "Vancouver, BC"
   date_start = "2018-09-18"
-  date_end = ""
+  date_end = "2018-09-18"
   description = """Mentored students working in R and Python on best practices as well as providing tips on presenting their results to the judges (which I was later in the day).
   
   The aim of the hackathon was to provide an outlet for students to improve and display their skills in analytics and sport, while connecting them with professionals and researchers from sports analytics. 
   """
-
+  
+[[experience]]
+  title = "Snow Angel"
+  company = "City of Vancouver"
+  company_url = "https://vancouver.ca/streets-transportation/snow-angel.aspx"
+  location = "Vancouver, BC"
+  date_start = "2019-12-01"
+  date_end = "2019-12-31"
+  description = """When there is snow and ice, getting around can be difficult, especially for seniors and people with limited mobility.
+  
+  When it snows we help match-up people throughout Vancouver who have limited mobility with neighbours willing to lend a hand to remove snow and ice outside their homes. 
+  """
 +++

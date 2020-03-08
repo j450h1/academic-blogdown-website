@@ -59,6 +59,15 @@ subtitle = ""
   Below is an explanatory plot recently developed for a client forecasting their estimated data storage costs in [Google BigQuery](https://cloud.google.com/bigquery/): 
   
   ![Plot](img/ggplot2.jpg)
+  """
+  
+  [[feature]]
+  icon = "chart-pie"
+  icon_pack = "fas"
+  name = "Triplebyte"
+  description = """[Triplebyte](https://triplebyte.com) provides technical hiring solutions. The company offers online coding tests and subsequent technical interviews to help screen candidates for prospective employers. Here are the results of a recent assessment:
+  
+  ![triplebyte](img/triplebyte_skills.png)
 
   """
 +++
