@@ -37,13 +37,19 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/j450h1
+- icon: stack-overflow
+  icon_pack: fab
+  link: https://stackoverflow.com/users/4119193/jas?tab=profile
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/j450h1
 - icon: envelope
   icon_pack: fas
 # link: '#contact'
   link: "mailto:jsohi@me.com"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/j450h1
+- icon: mobile-alt
+  icon_pack: fas
+  link: "tel:6047871173"
 
 superuser: true
 ---
