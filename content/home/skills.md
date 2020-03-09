@@ -30,13 +30,13 @@ subtitle = ""
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "**ADVANCED** - BigQuery, mySQL, SQL Server - in 97th percentile for SQL as per Datacamp assessment" 
+  description = "**ADVANCED** - 97th percentile for SQL as per Datacamp assessment. Use Google BigQuery on a daily basis." 
 
 [[feature]]
   icon = "cloud"
   icon_pack = "fas"
   name = "Cloud Computing"
-  description = "GCP, Azure, AWS. Google Cloud Certified 2X" 
+  description = "Google Cloud, Azure, AWS. Google Cloud Certified (2x)" 
 
 [[feature]]
   icon = "git"
