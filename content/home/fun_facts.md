@@ -54,7 +54,7 @@ subtitle = ""
   icon = "kaggle"
   icon_pack = "fab"
   name = "Kaggle"
-  description = '''I first joined [Kaggle](https://www.kaggle.com/jassohi) over 5 years ago and recently lead of team in [Learn With Other Kaggle Users](https://www.kaggle.com/c/learn-together)
+  description = '''I first joined [Kaggle](https://www.kaggle.com/jassohi) over 5 years ago. I recently led and mentored a team through a beginner competition called [Learn With Other Kaggle Users](https://www.kaggle.com/c/learn-together)
 - Classify forest types based on information about the area '''
 
 [[feature]]
