@@ -42,7 +42,7 @@ subtitle = ""
   icon = "git"
   icon_pack = "fab"
   name = "Version Control"
-  description = "Lead and championed implementation of Bitbucket (Git) version control throughout Cardinal Path's Data Science department" 
+  description = "Lee and championed implementation of Bitbucket (Git) version control throughout Cardinal Path's Data Science department" 
 
 [[feature]]
   icon = "chart-line"
