@@ -36,7 +36,7 @@ subtitle = ""
   icon = "html5"
   icon_pack = "fab"
   name = "5+ Years of Data Science experience"
-  description = '''It has been over 5 years since I made one of the best decisions in my life; to change careers from Supply Chain to Data Science.'''
+  description = '''It has been over 5 years since I made one of the best decisions of my life; took a leap of faith and changed careers from Supply Chain to Data Science.'''
 
 [[feature]]
   icon = "inbox"
