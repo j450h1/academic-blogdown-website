@@ -24,7 +24,7 @@ subtitle = ""
   icon = "khanda"
   icon_pack = "fas"
   name = "Sikhism"
-  description = '''Sikhism, from Sikh, meaning a "disciple", "seeker," or "learner"), is an Indian monotheistic religion that originated in the Punjab region of the Indian subcontinent around the end of the 15th century.'''
+  description = '''Sikhism, from Sikh, meaning a "disciple", "seeker," or "learner", is an Indian monotheistic religion that originated in the Punjab region of the Indian subcontinent around the end of the 15th century.'''
 
 [[feature]]
   icon = "basketball-ball"
