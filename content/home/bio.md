@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
- Jas "like Jazz🎺 music" is a data scientist at Cardinal Path - a leading marketing analytics consultancy. He was the 1st employee in the data science department and helped build it from the ground up with a focus on reproducibility. As a full stack data scientist, he leads end to end projects from gathering requirements from clients, building data pipelines, training machine learning models, and finally visualizing and presenting results. Key clients include Intel, Rite-aid, Universal Music, to name a few. Over the past few years, he has specialized in multi-channel attribution, market mix modeling, and predictive modeling (both ML and traditional stats based).
+Jas "like Jazz🎺 music" is a data scientist with 5+ years of experience; currently on the modeling team at Cardinal Path - a leading marketing analytics consultancy. He was the 1st employee in the data science department and helped build it from the ground up with a focus on reproducibility. As a full stack data scientist, he leads end to end projects from gathering requirements from clients, building data pipelines, training machine learning models, and finally visualizing and presenting results. Key clients include Intel, Rite-aid, Universal Music, to name a few. Over the past few years, he has specialized in multi-channel attribution, market mix modeling, and predictive modeling (both ML and traditional stats based).
 
 Prior to Cardinal Path, Jas worked in sales and supply chain for a leading ecommerce startup, BuildDirect.com technologies. He honed his business acumen and worked with the COO to build up the new Inventory Department. 
 
