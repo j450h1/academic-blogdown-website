@@ -71,7 +71,7 @@ subtitle = ""
   """
   
   [[feature]]
-  icon = "chart-pie"
+  icon = "laptop-code"
   icon_pack = "fas"
   name = "Triplebyte"
   description = """[Triplebyte](https://triplebyte.com) provides technical hiring solutions. The company offers online coding tests and subsequent technical interviews to help screen candidates for prospective employers. Here are the results of a recent assessment:
