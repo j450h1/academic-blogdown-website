@@ -68,7 +68,7 @@ subtitle = ""
   description = """ggplot2 (R)
   
   Here is another custom plot I created in R called a waffle chart. It was used to communicate the sparsity of the data and why that particular data was not useful for modeling (white squares are days with no data):
-  ![Waffle Chart](img/waffle_chart.jpg)
+  ![Waffle Chart](img/waffle_chart.png)
   """
   
   [[feature]]
