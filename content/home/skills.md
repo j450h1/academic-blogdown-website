@@ -66,7 +66,10 @@ subtitle = ""
   icon_pack = "fas"
   name = "Data Visualization"
   description = """
+  
+  
   Here is another custom plot I created in R called a waffle chart. It was used to communicate the sparsity of the data and why that particular data was not useful for modeling (light grey squares are days with no data):
+  
   ![Waffle Chart](img/waffle_chart.png)
   """
   
