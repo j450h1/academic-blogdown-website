@@ -17,17 +17,17 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Data Science Hackathon - Judge & Mentor"
-  company = "Hockey Hack Day in Canada"
-  company_url = "https://hockeyhackday.ca"
-  location = "Vancouver, BC"
-  date_start = "2020-03-28"
-  date_end = "2020-03-28"
-  description = """Invited back for the 2nd time by the SFU Sports Analytics club to judge and mentor for this hackathon.
-  
-  This year’s event is done in partnership with Stathletes to bring exclusive hockey data to students across the country.  Hockey Hack Day in Canada creates an avenue for students to gain the proper knowledge and experience to help them transition into the growing industry of sports analytics.  We aim to give participants the vision, ability, and opportunity to improve their skills with data and analytics in sports.
-  """
+#[[experience]]
+#  title = "Data Science Hackathon - Judge & Mentor"
+#  company = "Hockey Hack Day in Canada"
+#  company_url = "https://hockeyhackday.ca"
+#  location = "Vancouver, BC"
+#  date_start = "2020-03-28"
+#  date_end = "2020-03-28"
+#  description = """Invited back for the 2nd time by the SFU Sports Analytics #club to judge and mentor for this hackathon.
+#  
+#  This year’s event is done in partnership with Stathletes to bring exclusive #hockey data to students across the country.  Hockey Hack Day in Canada creates #an avenue for students to gain the proper knowledge and experience to help them #transition into the growing industry of sports analytics.  We aim to give #participants the vision, ability, and opportunity to improve their skills with #data and analytics in sports.
+#  """
 
 [[experience]]
   title = "Data Science Hackathon - Judge & Mentor"
