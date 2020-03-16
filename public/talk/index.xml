@@ -13,11 +13,13 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
+      <title>Web Crawling with Beautiful Soup</title>
       <link>/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;iframe src=&#34;https://player.vimeo.com/video/170384413&#34; width=&#34;640&#34; height=&#34;480&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/170384413&#34;&gt;Jas Sohi - Web Crawling with Beautiful Soup - VanPyDay 2016&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/ockamo&#34;&gt;Boris da Chinaman&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;

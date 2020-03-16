@@ -30,14 +30,17 @@ projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: An example talk using Academic's Markdown slides feature.
+summary: A 5 min talk about using Beautiful Soup to get data from a webpage in the BigQuery UI instead of doing it manually 1 by 1.
 tags: []
-title: Example Talk
-url_code: ""
-url_pdf: ""
+title: Web Crawling with Beautiful Soup
+#url_code: ""
+#url_pdf: ""
 url_slides: "https://docs.google.com/presentation/d/1QHRVHj86r2-lPreWn_NaJFe2jrjdoTYPzSqfX22nhm8/edit?usp=sharing"
 url_video: "https://vimeo.com/170384413"
 ---
+
+<iframe src="https://player.vimeo.com/video/170384413" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/170384413">Jas Sohi - Web Crawling with Beautiful Soup - VanPyDay 2016</a> from <a href="https://vimeo.com/ockamo">Boris da Chinaman</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 {{% alert note %}}
 Click on the **Slides** button above to view the built-in slides feature.
