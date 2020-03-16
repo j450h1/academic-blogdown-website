@@ -69,5 +69,6 @@ subtitle = "Lighting Talk at VanPy Day 2016"
  css_class = ""
 +++
 
-<iframe src="https://player.vimeo.com/video/170384413" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/170384413">Jas Sohi - Web Crawling with Beautiful Soup - VanPyDay 2016</a> from <a href="https://vimeo.com/ockamo">Boris da Chinaman</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div>
+<iframe src="https://player.vimeo.com/video/170384413" width="640" height="480" align="bottom" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
