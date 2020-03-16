@@ -1,55 +1,24 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
+abstract: A talk about using the Python package Beautiful Soup. Showcased how I scraped data from a BigQuery UI programmatically instead of doing it manually.
 address:
   city: Vancouver
   country: Canada
-  postcode: "94305"
+  postcode: V6B 5A1
   region: CA
-  street: 450 Serra Mall
+  street: #400 - 401 W. Georgia Street
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2016-06-04T10:00:00Z"
+date_end: "2016-06-04T17:00:00Z"
 event: Vancouver Python Day
 event_url: http://www.vanpyday.com/en/latest/
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-location: Source Themes HQ
-math: true
-projects:
-- internal-project
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: A 5 min talk about using Beautiful Soup to get data from a webpage in the BigQuery UI instead of doing it manually 1 by 1.
+summary: A talk about using the Python package Beautiful Soup. Showcased how I scraped data from a BigQuery UI programmatically instead of doing it manually.
 tags: []
 title: Web Crawling with Beautiful Soup
-#url_code: ""
-#url_pdf: ""
 url_slides: "https://docs.google.com/presentation/d/1QHRVHj86r2-lPreWn_NaJFe2jrjdoTYPzSqfX22nhm8/edit?usp=sharing"
 url_video: "https://vimeo.com/170384413"
 ---
 
 <iframe src="https://player.vimeo.com/video/170384413" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/170384413">Jas Sohi - Web Crawling with Beautiful Soup - VanPyDay 2016</a> from <a href="https://vimeo.com/ockamo">Boris da Chinaman</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
