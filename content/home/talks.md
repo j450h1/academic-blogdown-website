@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Past Talks"
-subtitle = "Lighting Talk at VanPy Day 2016"
+subtitle = "Lighting Talk at VanPy Day"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

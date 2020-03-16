@@ -13,7 +13,7 @@ date_end: "2016-06-04T17:00:00Z"
 event: Vancouver Python Day
 event_url: http://www.vanpyday.com/en/latest/
 featured: false
-summary: A talk about using the Python package Beautiful Soup. Showcased how I scraped data from a BigQuery UI programmatically instead of doing it manually.
+summary: A talk about using the Python package Beautiful Soup. Showcased how I scraped data from the BigQuery Web UI programmatically to save many hours of copying and pasting.
 tags: []
 title: Web Crawling with Beautiful Soup
 url_slides: "https://docs.google.com/presentation/d/1QHRVHj86r2-lPreWn_NaJFe2jrjdoTYPzSqfX22nhm8/edit?usp=sharing"
