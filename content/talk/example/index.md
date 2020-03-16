@@ -4,8 +4,8 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
   eu, pulvinar tempor diam.
 address:
-  city: Stanford
-  country: United States
+  city: Vancouver
+  country: Canada
   postcode: "94305"
   region: CA
   street: 450 Serra Mall
@@ -13,8 +13,8 @@ all_day: false
 authors: []
 date: "2030-06-01T13:00:00Z"
 date_end: "2030-06-01T15:00:00Z"
-event: Academic Theme Conference
-event_url: https://example.org
+event: Vancouver Python Day
+event_url: http://www.vanpyday.com/en/latest/
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -35,8 +35,8 @@ tags: []
 title: Example Talk
 url_code: ""
 url_pdf: ""
-url_slides: ""
-url_video: ""
+url_slides: "https://docs.google.com/presentation/d/1QHRVHj86r2-lPreWn_NaJFe2jrjdoTYPzSqfX22nhm8/edit?usp=sharing"
+url_video: "https://vimeo.com/170384413"
 ---
 
 {{% alert note %}}
