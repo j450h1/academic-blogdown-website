@@ -18,8 +18,7 @@ tags: []
 title: Web Crawling with Beautiful Soup
 url_slides: "https://docs.google.com/presentation/d/1QHRVHj86r2-lPreWn_NaJFe2jrjdoTYPzSqfX22nhm8/edit?usp=sharing"
 url_video: "https://vimeo.com/170384413"
+---
 
 <iframe src="https://player.vimeo.com/video/170384413" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/170384413">Jas Sohi - Web Crawling with Beautiful Soup - VanPyDay 2016</a> from <a href="https://vimeo.com/ockamo">Boris da Chinaman</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
----
-
