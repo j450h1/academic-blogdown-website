@@ -56,7 +56,7 @@ subtitle = ""
   name = "Data Visualization"
   description = """ggplot2 (R), Google Data Studio, Tableau 
   
-  Below is an explanatory plot recently developed for a client forecasting their estimated data storage costs in [Google BigQuery](https://cloud.google.com/bigquery/): 
+  Below is an explanatory plot recently developed for a client. They asked me to forecast their estimated data storage costs in [Google BigQuery](https://cloud.google.com/bigquery/): 
   
   ![Plot](img/ggplot2.jpg)
   """
@@ -68,7 +68,7 @@ subtitle = ""
   description = """
   
   
-  Here is another custom plot I created in R called a waffle chart. It was used to communicate the sparsity of the data and why that particular data was not useful for modeling (light grey squares are days with no data):
+  Here is another custom plot I created in R called a waffle chart. It was used to communicate the sparsity of the data and why this particular dataset was not useful for modeling (light grey squares are days with no data):
   
   ![Waffle Chart](img/waffle_chart.png)
   """
