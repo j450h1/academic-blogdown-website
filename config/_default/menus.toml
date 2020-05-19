@@ -52,15 +52,16 @@
   name = "Volunteer"
   url = "#volunteer"
   weight = 60
-#[[main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
-   name = "Resume"
-   #url = "files/cv.pdf"
-   url = "https://docs.google.com/document/d/140V8w_9ULxasPt1undqa-iB3GUzr14LRm5vrmcpMCF4/edit#heading=h.8v78y56onko"
-   weight = 70
+  name = "Resume"
+  #url = "files/cv.pdf"
+  url = "https://docs.google.com/document/d/140V8w_9ULxasPt1undqa-iB3GUzr14LRm5vrmcpMCF4/edit#heading=h.8v78y56onko"
+  weight = 70
+
+[[main]]
+  name = "Latest Blog Post"
+  url = "https://medium.com/@jsohi/whats-in-a-name-an-analysis-of-over-a-century-of-baby-names-a60c6e1a6615"
+  weight = 80
