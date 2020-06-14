@@ -6,7 +6,7 @@ education:
   courses:
   - course: Udacity Data Scientist Nanodegree
     institution: Udacity
-    year: 2020 (in progress)
+    year: 2020
   - course: Udacity Data Analyst Nanodegree
     institution: Udacity
     year: 2015
@@ -26,7 +26,7 @@ interests:
 - Marketing Attribution
 - Customer Lifetime Value
 - Clustering/Customer Segmentation
-- Predictive modeling & machine learning
+- Predictive modeling/machine learning
 
 name: Jas Sohi
 organizations:
@@ -57,4 +57,4 @@ social:
 superuser: true
 ---
 
-Jas "like Jazz🎺 music" is a data scientist with 5+ years of experience on the modeling team at Cardinal Path - a leading marketing analytics consultancy. He was the 1st employee in the data science department and helped build it from the ground up with a focus on reproducibility. As a full stack data scientist, he leads end to end projects from gathering requirements, to building data pipelines, training machine learning models, and finally visualizing and presenting results. Key clients include Intel, Rite-aid, Cisco, and Universal Music, to name a few. Over the past few years, he has specialized in multi-channel attribution, market mix modeling, and predictive modeling (both ML and traditional stats based methods).
+Jas "like Jazz🎺 music" is a data scientist with 5+ years of experience on the modeling team at Cardinal Path - a leading marketing analytics consultancy. He was the 1st employee in the data science department and helped build it from the ground up with a focus on reproducibility. As a full stack data scientist, he leads end to end projects from gathering requirements, to building data pipelines, training machine learning models, and finally visualizing and presenting results. Key clients include Intel, Rite-aid, Cisco, and Universal Music, to name a few. Over the past few years, he has specialized in multi-channel attribution, market mix modeling, and predictive modeling (classificaton and regression).
