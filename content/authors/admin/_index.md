@@ -59,4 +59,4 @@ superuser: true
 
 Jas "like Jazz🎺 music" is a Data and Applied Scientist at Microsoft based out of Vancouver, Canada. Currently, he is on the OXO Fuel team - focusing on using data to help sustain healthly enterprise customers  (in terms of their usage of MS Office products).
 
-Previously, he had 5+ years of experience on the modeling team at Cardinal Path - a leading marketing analytics consultancy. He was the 1st employee in the data science department and helped build it from the ground up with a focus on reproducibility. 
+Previously, he spent 5+ years on the modeling team at Cardinal Path - a leading marketing analytics consultancy. He was the 1st employee in the data science department and helped build it from the ground up with a focus on reproducibility. 

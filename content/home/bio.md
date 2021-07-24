@@ -52,6 +52,8 @@ subtitle = ""
 
 Jas "like Jazz🎺 music" is a Data and Applied Scientist at Microsoft based out of Vancouver, Canada. Currently, he is on the OXO Fuel team - focusing on using data to help sustain healthly enterprise customers  (in terms of their usage of MS Office products).
 
+Previously, he spent 5+ years on the modeling team at Cardinal Path - a leading marketing analytics consultancy. He was the 1st employee in the data science department and helped build it from the ground up with a focus on reproducibility. 
+
 At Cardinal Path, he led end to end projects: everything from gathering requirements, to building data pipelines, training machine learning models, and finally visualizing and presenting results. Key clients included Intel, Rite-aid, Cisco, and Universal Music, to name a few. Over the past few years, he has specialized in multi-channel attribution, market mix modeling, and predictive modeling (classification and regression).
 
 Prior to Cardinal Path, Jas worked in sales and supply chain for a leading ecommerce startup, BuildDirect.com technologies. He honed his business acumen and worked with the COO to build up the new Inventory Department. 
