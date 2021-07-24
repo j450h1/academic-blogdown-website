@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Google Cloud"
   organization_url = "https://cloud.google.com/"
+  title = "Google Cloud Certified Professional Machine Learning Engineer"
+  url = "https://cloud.google.com/certification/guides/machine-learning-engineer"
+  certificate_url = "https://www.credential.net/9494007e-1319-486a-ba07-661775f221f3#gs.6otbkq"
+  date_start = "2021-04-08"
+  date_end = "2021-04-08"
+  description = "The Professional Machine Learning Engineer exam assesses your ability to: Frame ML problems, Architect ML solutions, Prepare and process data, Develop ML models, Automate & orchestrate ML pipelines, Monitor, optimize, and maintain ML solutions"
+
+[[item]]
+  organization = "Google Cloud"
+  organization_url = "https://cloud.google.com/"
   title = "Google Cloud Certified Professional Data Engineer"
   url = "https://cloud.google.com/certification/data-engineer"
   certificate_url = "https://www.credential.net/fe206c40-392e-4ef5-86be-854fbafae5be?key=467f69a402af2b7ce63fa8ac30985dbe71c26e3f0eca763db21498c432d14c90"
