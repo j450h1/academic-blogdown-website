@@ -30,9 +30,9 @@ interests:
 
 name: Jas Sohi
 organizations:
-- name: Cardinal Path
+- name: Microsoft
   url: "https://www.cardinalpath.com/"
-role: Data Scientist
+role: Data and Applied Scientist
 social:
 - icon: linkedin-in
   icon_pack: fab
@@ -57,6 +57,6 @@ social:
 superuser: true
 ---
 
-Jas "like Jazz:trumpet: music" is a data scientist with 5+ years of experience on the modeling team at Cardinal Path - a leading marketing analytics consultancy. He was the 1st employee in the data science department and helped build it from the ground up with a focus on reproducibility.
+Jas "like Jazz🎺 music" is a Data and Applied Scientist at Microsoft based out of Vancouver, Canada. Currently, he is on the OXO Fuel team - focusing on using data to help sustain healthly enterprise customers  (in terms of their usage of MS Office products).
 
-As a full stack data scientist, he leads end to end projects from gathering requirements, to building data pipelines, training machine learning models, and finally visualizing and presenting results. Key clients include Intel, Rite-aid, Cisco, and Universal Music, to name a few. Over the past few years, he has specialized in multi-channel attribution, market mix modeling, and predictive modeling (classification and regression).
+Previously, he had 5+ years of experience on the modeling team at Cardinal Path - a leading marketing analytics consultancy. He was the 1st employee in the data science department and helped build it from the ground up with a focus on reproducibility. 
