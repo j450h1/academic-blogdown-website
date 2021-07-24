@@ -31,7 +31,7 @@ interests:
 name: Jas Sohi
 organizations:
 - name: Microsoft
-  url: "https://www.cardinalpath.com/"
+  url: "https://www.microsoft.com/"
 role: Data and Applied Scientist
 social:
 - icon: linkedin-in
