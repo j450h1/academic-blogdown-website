@@ -8,8 +8,6 @@
   
   - Setup a file called netlify.toml (as per recommendations when setting up new connection)
 
-- Setup a file called net
-
 ### What is the workflow?
 
 -   Make updates locally
