@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Jas "like Jazz🎺 music" is a Data Scientist at Microsoft based out of Vancouver, Canada. Currently, he is on the OXO Fuel team - focusing on using data to help sustain healthy enterprise customers (in terms of their usage of MS Office products).
+Jas "like Jazz🎺 music" is a Data Scientist based out of Vancouver, Canada. He currently supports the Office Product Group (OPG) as part of the Fundamentals & Experience Data Science team at Microsoft. 
 
 Previously, he spent 5+ years on the modeling team at Cardinal Path - a leading marketing analytics consultancy. He was the 1st employee in the data science department and helped build it from the ground up with a focus on reproducibility. 
 
@@ -63,4 +63,4 @@ Nearly half a decade later, during the 2020 COVID-19 pandemic, he made the most 
 
 If you haven't noticed yet, Jas is a R ninja (this website was fully built using RStudio), a slick SQLer, and a Python pro. He's also a bit bashful about his brilliant bash scripting skills.
 
-On a more personal note, he's an avid skier, hiker, and a biker. He has recently taken up tennis and beach volleyball.
+On a more personal note, he's an avid skier, hiker, and a biker. He has recently taken up tennis, beach volleyball, and acroyoga.
