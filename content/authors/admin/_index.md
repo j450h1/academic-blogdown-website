@@ -57,6 +57,6 @@ social:
 superuser: true
 ---
 
-Jas "like Jazz🎺 music" is a Data Scientist at Microsoft based out of Vancouver, Canada. He currently supports the Office Product Group (OPG) as part of the Fundamentals & Experiences Data Science team at Microsoft.
+Jas "like Jazz🎺 music" is a Data Scientist based out of Vancouver, Canada. He currently supports the Office Product Group (OPG) as part of the Fundamentals & Experiences Data Science team at Microsoft.
 
 Previously, he spent 5+ years on the modeling team at Cardinal Path - a leading marketing analytics consultancy. He was the 1st employee in the data science department and helped build it from the ground up with a focus on reproducibility.
